@@ -1,0 +1,9 @@
+package test;
+
+public class CartPageTest {
+
+	public void cartPageTest() {
+		System.out.println("Cart Page Added");
+	}
+
+}
