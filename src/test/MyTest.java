@@ -7,4 +7,5 @@ public class MyTest {
 	String city = "NY";
 	String country = "USA";
 	int salary = 100;
+	String nme = "Sachin";
 }
